@@ -42,15 +42,6 @@ This project evolved significantly across the training program, moving from a fo
 
 ---
 
-## 📸 Demo & Screenshots
-
-### 🔍 Search Interface
-![Search UI](assets/search-ui.png)
-
-### 📊 Results & Categorization Output
-![Search Results](assets/search-results.png)
-
----
 
 ## 💻 Tech Stack
 
