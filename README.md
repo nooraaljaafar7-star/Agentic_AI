@@ -34,10 +34,8 @@ This project evolved significantly across the training program, moving from a fo
 
 ## 🏗️ System Architecture
 
-┌─────────────────┐       ┌────────────────────┐       ┌──────────────────────┐
-│  User Interface │  ───> │  FastAPI Backend   │  ───> │ Indexing & Search    │
-│ (Streamlit/Web) │  <─── │  (API Controller) │  <─── │ (Ranking Engine DB)  │
-└─────────────────┘       └────────────────────┘       └──────────────────────┘
+![Architecture Diagram 1](assets/diagram1.png)
+
 
 
 ---
