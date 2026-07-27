@@ -34,7 +34,7 @@ This project evolved significantly across the training program, moving from a fo
 
 ## 🏗️ System Architecture
 
-![Architecture Diagram 1](سدايا اكادمي/Untitled diagram-2026-07-26-144141.png)
+![Architecture Diagram 1](Untitled diagram-2026-07-26-144141.png)
 
 
 
