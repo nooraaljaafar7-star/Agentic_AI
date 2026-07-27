@@ -34,8 +34,7 @@ This project evolved significantly across the training program, moving from a fo
 
 ## 🏗️ System Architecture
 
-![Architecture Diagram 1](Agentic_AI/Untitled diagram-2026-07-26-144141.png)
-
+![System Architecture](./Untitled%20diagram-2026-07-26-144141.png)
 
 
 ---
